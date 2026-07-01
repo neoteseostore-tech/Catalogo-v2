@@ -1,0 +1,642 @@
+[
+  {
+    "marca": "BLACK SHEEP",
+    "modelo": "30K",
+    "categoria": "Vapers Desechables",
+    "precioMayorista": 12.7,
+    "precioProveedor": 10.75,
+    "imagen": "images/blacksheep/30k.webp",
+    "sabores": [
+      {
+        "nombre": "ACAI GRAPE + STRAWBERRY KIWI ICE",
+        "codigo": "191795",
+        "descripcion": "Perfil de uva dulce, frutilla, kiwi, açaí."
+      },
+      {
+        "nombre": "ACAI MORANGO + GRAPE MANGO ICE",
+        "codigo": "191784",
+        "descripcion": "Perfil de uva dulce, mango tropical, açaí, toque frío."
+      },
+      {
+        "nombre": "ACAI STRAWBERRY BANANA + GRAPE ICE",
+        "codigo": "191773",
+        "descripcion": "Perfil de uva dulce, frutilla, banana, açaí."
+      },
+      {
+        "nombre": "CHERRY RASPBERRY + WATERMELON STRAWBERRY",
+        "codigo": "177597",
+        "descripcion": "Perfil de frutilla, sandía, frambuesa, cereza."
+      },
+      {
+        "nombre": "FRESH MINT + GRAPE",
+        "codigo": "177711",
+        "descripcion": "Perfil de menta fresca, uva dulce, toque frío."
+      },
+      {
+        "nombre": "FRESH MINT + WATERMELON STRAWBERRY",
+        "codigo": "177722",
+        "descripcion": "Perfil de menta fresca, frutilla, sandía, toque frío."
+      },
+      {
+        "nombre": "GRAPE + ICE MASTER GRAPE ICE",
+        "codigo": "191762",
+        "descripcion": "Perfil de uva dulce, toque frío."
+      },
+      {
+        "nombre": "GRAPE + PASSION FRUIT",
+        "codigo": "177700",
+        "descripcion": "Perfil de uva dulce, maracuyá."
+      },
+      {
+        "nombre": "GRAPE + STRAWBERRY BANANA",
+        "codigo": "177698",
+        "descripcion": "Perfil de uva dulce, frutilla, banana."
+      },
+      {
+        "nombre": "GRAPE + STRAWBERRY KIWI",
+        "codigo": "177687",
+        "descripcion": "Perfil de uva dulce, frutilla, kiwi."
+      },
+      {
+        "nombre": "GRAPE + WATERMELON BUBBLEGUM",
+        "codigo": "177676",
+        "descripcion": "Perfil de uva dulce, sandía."
+      },
+      {
+        "nombre": "MENTHOL + FRESH MINT",
+        "codigo": "177665",
+        "descripcion": "Perfil de menta fresca, mentol intenso, toque frío."
+      },
+      {
+        "nombre": "MENTHOL + MANGO PEACH WATERMELON",
+        "codigo": "177654",
+        "descripcion": "Perfil de mentol intenso, sandía, mango tropical, durazno."
+      },
+      {
+        "nombre": "MENTHOL + WATERMELON GREEN APPLE",
+        "codigo": "177643",
+        "descripcion": "Perfil de mentol intenso, sandía, manzana."
+      },
+      {
+        "nombre": "SOUR GREEN APPLE + BLUEBERRY GRAPE",
+        "codigo": "177632",
+        "descripcion": "Perfil de uva dulce, manzana, arándanos."
+      },
+      {
+        "nombre": "STRAWBERRY BANANA + PINEAPPLE COCONUT",
+        "codigo": "177621",
+        "descripcion": "Perfil de frutilla, manzana, ananá, coco."
+      },
+      {
+        "nombre": "STRAWBERRY BUBBLE + SOUR PINEAPPLE",
+        "codigo": "177610",
+        "descripcion": "Perfil de frutilla, manzana, ananá."
+      },
+      {
+        "nombre": "WATERMELON BUBBLE + MANGO PEACH WATER",
+        "codigo": "177600",
+        "descripcion": "Perfil de sandía, mango tropical, durazno."
+      }
+    ]
+  },
+  {
+    "marca": "BLACK SHEEP",
+    "modelo": "40K SWI",
+    "categoria": "Vapers Desechables",
+    "precioMayorista": 14.1,
+    "precioProveedor": 12.0,
+    "imagen": "images/blacksheep/Black Sheep 40K.webp",
+    "sabores": [
+      {
+        "nombre": "BLUEBERRY BUBBLE + SOUR GREEN APPLE",
+        "codigo": "178363",
+        "descripcion": "Perfil de manzana, arándanos."
+      },
+      {
+        "nombre": "BLUEBERRY GRAPE + CHERRY BERRY",
+        "codigo": "178431",
+        "descripcion": "Perfil de uva dulce, arándanos, cereza."
+      },
+      {
+        "nombre": "FRESH MINT + MANGO ORANGE",
+        "codigo": "178420",
+        "descripcion": "Perfil de menta fresca, mango tropical, naranja, toque frío."
+      },
+      {
+        "nombre": "GRAPE MANGO + FRESH MINT",
+        "codigo": "178410",
+        "descripcion": "Perfil de menta fresca, uva dulce, mango tropical, toque frío."
+      },
+      {
+        "nombre": "GRAPE + ENERGY DRINK",
+        "codigo": "178409",
+        "descripcion": "Perfil de uva dulce."
+      },
+      {
+        "nombre": "GRAPE + GRAPE MANGO",
+        "codigo": "183269",
+        "descripcion": "Perfil de uva dulce, mango tropical."
+      },
+      {
+        "nombre": "GRAPE + MENTHOL",
+        "codigo": "178396",
+        "descripcion": "Perfil de mentol intenso, uva dulce."
+      },
+      {
+        "nombre": "GRAPE + PASSION FRUIT",
+        "codigo": "183270",
+        "descripcion": "Perfil de uva dulce, maracuyá."
+      },
+      {
+        "nombre": "ICE ACAI STRAWBERRY + ACAI GRAPE",
+        "codigo": "192056",
+        "descripcion": "Perfil de uva dulce, frutilla, açaí, toque frío."
+      },
+      {
+        "nombre": "ICE GRAPE + GRAPE ICE",
+        "codigo": "192045",
+        "descripcion": "Perfil de uva dulce, toque frío."
+      },
+      {
+        "nombre": "ICE KIWI GRAPE STRAWBERRY + ACAI STRAWBERRY BANANA",
+        "codigo": "192034",
+        "descripcion": "Perfil de uva dulce, frutilla, kiwi, banana."
+      },
+      {
+        "nombre": "PASSION FRUIT + STRAWBERRY WATERMELON",
+        "codigo": "178385",
+        "descripcion": "Perfil de frutilla, sandía, maracuyá."
+      },
+      {
+        "nombre": "STRAWBERRY KIWI + COLA LIME",
+        "codigo": "178374",
+        "descripcion": "Perfil de frutilla, kiwi, cola, lima."
+      },
+      {
+        "nombre": "STRAWBERRY KIWI + FRESH MINT",
+        "codigo": "183280",
+        "descripcion": "Perfil de menta fresca, frutilla, kiwi, toque frío."
+      }
+    ]
+  },
+  {
+    "marca": "BLACK SHEEP",
+    "modelo": "55K PRO",
+    "categoria": "Vapers Desechables",
+    "precioMayorista": 14.7,
+    "precioProveedor": 12.5,
+    "imagen": "images/blacksheep/Black Sheep 55K PRO.webp",
+    "sabores": [
+      {
+        "nombre": "ALOE GRAPE",
+        "codigo": "192113",
+        "descripcion": "Perfil de uva dulce."
+      },
+      {
+        "nombre": "BLUEBERRY WATERMELON",
+        "codigo": "192180",
+        "descripcion": "Perfil de sandía, arándanos."
+      },
+      {
+        "nombre": "COOL MINT",
+        "codigo": "192179",
+        "descripcion": "Perfil de menta fresca, toque frío."
+      },
+      {
+        "nombre": "MIAMI MINT",
+        "codigo": "192168",
+        "descripcion": "Perfil de menta fresca."
+      },
+      {
+        "nombre": "MIXED BERRY",
+        "codigo": "192157",
+        "descripcion": "Perfil de sabor frutal y equilibrado."
+      },
+      {
+        "nombre": "STRAWBERRY BANANA",
+        "codigo": "192135",
+        "descripcion": "Perfil de frutilla, banana."
+      },
+      {
+        "nombre": "WATERMELON ICE",
+        "codigo": "192124",
+        "descripcion": "Perfil de sandía, toque frío."
+      }
+    ]
+  },
+  {
+    "marca": "ELFBAR",
+    "modelo": "35K DUKE",
+    "categoria": "Vapers Desechables",
+    "precioMayorista": 11.3,
+    "precioProveedor": 9.5,
+    "imagen": "images/elfbar/duke-35k.webp",
+    "sabores": [
+      {
+        "nombre": "ICY MINT",
+        "codigo": "elfbar-35k-duke-icy-mint",
+        "descripcion": "Perfil de menta fresca, toque frío."
+      },
+      {
+        "nombre": "KIWI PASSION FRUIT",
+        "codigo": "elfbar-35k-duke-kiwi-passion-fruit",
+        "descripcion": "Perfil de kiwi, maracuyá."
+      },
+      {
+        "nombre": "MANGO MAGIC",
+        "codigo": "elfbar-35k-duke-mango-magic",
+        "descripcion": "Perfil de mango tropical."
+      },
+      {
+        "nombre": "MENTHOL",
+        "codigo": "elfbar-35k-duke-menthol",
+        "descripcion": "Perfil de mentol intenso."
+      },
+      {
+        "nombre": "PEACH MANGO WATERMELON",
+        "codigo": "elfbar-35k-duke-peach-mango-watermelon",
+        "descripcion": "Perfil de sandía, mango tropical, durazno."
+      },
+      {
+        "nombre": "PINEAPPLE ICE",
+        "codigo": "elfbar-35k-duke-pineapple-ice",
+        "descripcion": "Perfil de manzana, ananá, toque frío."
+      }
+    ]
+  },
+  {
+    "marca": "ELFBAR",
+    "modelo": "40K ICE KING",
+    "categoria": "Vapers Desechables",
+    "precioMayorista": 11.6,
+    "precioProveedor": 9.75,
+    "imagen": "images/elfbar/ice-king-40k.webp",
+    "sabores": [
+      {
+        "nombre": "BAJA SPLASH",
+        "codigo": "elfbar-40k-ice-king-baja-splash",
+        "descripcion": "Perfil de sabor frutal y equilibrado."
+      },
+      {
+        "nombre": "BLUE RAZZ ICE",
+        "codigo": "elfbar-40k-ice-king-blue-razz-ice",
+        "descripcion": "Perfil de toque frío."
+      },
+      {
+        "nombre": "CHERRY FUSE",
+        "codigo": "elfbar-40k-ice-king-cherry-fuse",
+        "descripcion": "Perfil de cereza."
+      },
+      {
+        "nombre": "CHERRY STRAZZ",
+        "codigo": "elfbar-40k-ice-king-cherry-strazz",
+        "descripcion": "Perfil de cereza."
+      },
+      {
+        "nombre": "MIAMI MINT",
+        "codigo": "elfbar-40k-ice-king-miami-mint",
+        "descripcion": "Perfil de menta fresca."
+      },
+      {
+        "nombre": "PEACH+",
+        "codigo": "elfbar-40k-ice-king-peach-plus",
+        "descripcion": "Perfil de durazno."
+      },
+      {
+        "nombre": "SCARY BERRY",
+        "codigo": "elfbar-40k-ice-king-scary-berry",
+        "descripcion": "Perfil de sabor frutal y equilibrado."
+      },
+      {
+        "nombre": "SOUR APPLE ICE",
+        "codigo": "elfbar-40k-ice-king-sour-apple-ice",
+        "descripcion": "Perfil de manzana, toque frío."
+      },
+      {
+        "nombre": "SOUR STRAW DRAGON FRUIT",
+        "codigo": "elfbar-40k-ice-king-sour-straw-dragon-fruit",
+        "descripcion": "Perfil de sabor frutal y equilibrado."
+      },
+      {
+        "nombre": "STRAWBERRY ICE",
+        "codigo": "elfbar-40k-ice-king-strawberry-ice",
+        "descripcion": "Perfil de frutilla, toque frío."
+      },
+      {
+        "nombre": "STRAWBERRY WATERMELON",
+        "codigo": "elfbar-40k-ice-king-strawberry-watermelon",
+        "descripcion": "Perfil de frutilla, sandía."
+      },
+      {
+        "nombre": "SUMMER COLA SLUSH",
+        "codigo": "elfbar-40k-ice-king-summer-cola-slush",
+        "descripcion": "Perfil de cola."
+      },
+      {
+        "nombre": "SUMMER HAWAIIAN SLUSH",
+        "codigo": "elfbar-40k-ice-king-summer-hawaiian-slush",
+        "descripcion": "Perfil de sabor frutal y equilibrado."
+      },
+      {
+        "nombre": "SUMMER NEON TWIST",
+        "codigo": "elfbar-40k-ice-king-summer-neon-twist",
+        "descripcion": "Perfil de sabor frutal y equilibrado."
+      },
+      {
+        "nombre": "SUMMER SPLASH",
+        "codigo": "elfbar-40k-ice-king-summer-splash",
+        "descripcion": "Perfil de sabor frutal y equilibrado."
+      },
+      {
+        "nombre": "TIGERS BLOOD",
+        "codigo": "elfbar-40k-ice-king-tigers-blood",
+        "descripcion": "Perfil de sabor frutal y equilibrado."
+      }
+    ]
+  },
+  {
+    "marca": "ELFBAR",
+    "modelo": "40K TRIO",
+    "categoria": "Vapers Desechables",
+    "precioMayorista": 11.6,
+    "precioProveedor": 9.75,
+    "imagen": "images/elfbar/trio-40k.webp",
+    "sabores": [
+      {
+        "nombre": "BLACK MINT",
+        "codigo": "elfbar-40k-trio-black-mint",
+        "descripcion": "Perfil de menta fresca."
+      },
+      {
+        "nombre": "BLUE RAZZ ICE",
+        "codigo": "elfbar-40k-trio-blue-razz-ice",
+        "descripcion": "Perfil de toque frío."
+      },
+      {
+        "nombre": "BLUEBERRY POM SLUSHY",
+        "codigo": "elfbar-40k-trio-blueberry-pom-slushy",
+        "descripcion": "Perfil de arándanos."
+      },
+      {
+        "nombre": "COOL MENTHOL",
+        "codigo": "elfbar-40k-trio-cool-menthol",
+        "descripcion": "Perfil de mentol intenso, toque frío."
+      },
+      {
+        "nombre": "SOUR STRAWBERRY DRAGON FURTI",
+        "codigo": "elfbar-40k-trio-sour-strawberry-dragon-furti",
+        "descripcion": "Perfil de frutilla."
+      },
+      {
+        "nombre": "STRAWBERRY ORANGE LIME",
+        "codigo": "elfbar-40k-trio-strawberry-orange-lime",
+        "descripcion": "Perfil de frutilla, lima, naranja."
+      },
+      {
+        "nombre": "WATERMELON ICE",
+        "codigo": "elfbar-40k-trio-watermelon-ice",
+        "descripcion": "Perfil de sandía, toque frío."
+      },
+      {
+        "nombre": "40000 A SOUR ICY SWEET",
+        "codigo": "elfbar-40k-trio-40000-a-sour-icy-sweet",
+        "descripcion": "Perfil de toque frío."
+      }
+    ]
+  },
+  {
+    "marca": "GEEKBAR",
+    "modelo": "25K PULSE X",
+    "categoria": "Vapers Desechables",
+    "precioMayorista": 8.4,
+    "precioProveedor": 7.0,
+    "imagen": "https://api.extrashop.com.py/storage/products/163728p1.jpg",
+    "sabores": [
+      {
+        "nombre": "ALT MINT",
+        "codigo": "geekbar-25k-pulse-x-alt-mint",
+        "descripcion": "Perfil de menta fresca."
+      },
+      {
+        "nombre": "COOL MINT",
+        "codigo": "geekbar-25k-pulse-x-cool-mint",
+        "descripcion": "Perfil de menta fresca, toque frío."
+      },
+      {
+        "nombre": "MIAMI MINT",
+        "codigo": "geekbar-25k-pulse-x-miami-mint",
+        "descripcion": "Perfil de menta fresca."
+      },
+      {
+        "nombre": "SOUR APPLE ICE",
+        "codigo": "geekbar-25k-pulse-x-sour-apple-ice",
+        "descripcion": "Perfil de manzana, toque frío."
+      },
+      {
+        "nombre": "BANANA TAFFY FREEZ",
+        "codigo": "geekbar-25k-pulse-x-banana-taffy-freez",
+        "descripcion": "Perfil de banana."
+      },
+      {
+        "nombre": "BLACKBERRY B-POP",
+        "codigo": "geekbar-25k-pulse-x-blackberry-b-pop",
+        "descripcion": "Perfil de sabor frutal y equilibrado."
+      },
+      {
+        "nombre": "BLACKBERRY BLUEBERY",
+        "codigo": "geekbar-25k-pulse-x-blackberry-bluebery",
+        "descripcion": "Perfil de sabor frutal y equilibrado."
+      },
+      {
+        "nombre": "GRAPEFRUIT REFRESH",
+        "codigo": "geekbar-25k-pulse-x-grapefruit-refresh",
+        "descripcion": "Perfil de uva dulce, toque frío."
+      },
+      {
+        "nombre": "LEMON HEADS",
+        "codigo": "geekbar-25k-pulse-x-lemon-heads",
+        "descripcion": "Perfil de limón."
+      },
+      {
+        "nombre": "RASPBERRY PEACH LIME",
+        "codigo": "geekbar-25k-pulse-x-raspberry-peach-lime",
+        "descripcion": "Perfil de durazno, frambuesa, lima."
+      },
+      {
+        "nombre": "SOUR FCUKING FAB",
+        "codigo": "geekbar-25k-pulse-x-sour-fcuking-fab",
+        "descripcion": "Perfil de sabor frutal y equilibrado."
+      },
+      {
+        "nombre": "SOUR MANGO PINEAPPLE",
+        "codigo": "geekbar-25k-pulse-x-sour-mango-pineapple",
+        "descripcion": "Perfil de mango tropical, manzana, ananá."
+      },
+      {
+        "nombre": "SOUR STRAWBERRY",
+        "codigo": "geekbar-25k-pulse-x-sour-strawberry",
+        "descripcion": "Perfil de frutilla."
+      }
+    ]
+  },
+  {
+    "marca": "IGNITE",
+    "modelo": "V150",
+    "categoria": "Vapers Desechables",
+    "precioMayorista": 9.0,
+    "precioProveedor": 7.5,
+    "imagen": "images/ignite/Ignite V150.webp",
+    "sabores": [
+      {
+        "nombre": "BLACK BERRY BLAST",
+        "codigo": "ignite-v150-black-berry-blast",
+        "descripcion": "Perfil de sabor frutal y equilibrado."
+      },
+      {
+        "nombre": "BLACK BLUEBERRY ICE",
+        "codigo": "ignite-v150-black-blueberry-ice",
+        "descripcion": "Perfil de arándanos, toque frío."
+      },
+      {
+        "nombre": "BLACK DRAGON FRUIT LEMONADE",
+        "codigo": "ignite-v150-black-dragon-fruit-lemonade",
+        "descripcion": "Perfil de limón."
+      },
+      {
+        "nombre": "BLACK PEPERMINT E CREAM",
+        "codigo": "ignite-v150-black-pepermint-e-cream",
+        "descripcion": "Perfil de menta fresca."
+      },
+      {
+        "nombre": "BLACK BLUE DREAM",
+        "codigo": "ignite-v150-black-blue-dream",
+        "descripcion": "Perfil de sabor frutal y equilibrado."
+      },
+      {
+        "nombre": "BLACK CHERRY BANANA",
+        "codigo": "ignite-v150-black-cherry-banana",
+        "descripcion": "Perfil de cereza, banana."
+      }
+    ]
+  },
+  {
+    "marca": "IGNITE",
+    "modelo": "V150 PRO",
+    "categoria": "Vapers Desechables",
+    "precioMayorista": 9.5,
+    "precioProveedor": 8.0,
+    "imagen": "images/ignite/Ignite V150.webp",
+    "sabores": [
+      {
+        "nombre": "PINEAPPLE ICE",
+        "codigo": "ignite-v150-pro-pineapple-ice",
+        "descripcion": "Perfil de manzana, ananá, toque frío."
+      },
+      {
+        "nombre": "SOUR APPLE ICE",
+        "codigo": "ignite-v150-pro-sour-apple-ice",
+        "descripcion": "Perfil de manzana, toque frío."
+      }
+    ]
+  },
+  {
+    "marca": "LOST MARY",
+    "modelo": "MIXER 30K",
+    "categoria": "Vapers Desechables",
+    "precioMayorista": 10.1,
+    "precioProveedor": 8.5,
+    "imagen": "images/lostmary/Lost Mary Mixer 30K.webp",
+    "sabores": [
+      {
+        "nombre": "ALO GRAPE SOUR AP",
+        "codigo": "lost-mary-mixer-30k-alo-grape-sour-ap",
+        "descripcion": "Perfil de uva dulce."
+      },
+      {
+        "nombre": "GRAPEFRUIT GREEN",
+        "codigo": "lost-mary-mixer-30k-grapefruit-green",
+        "descripcion": "Perfil de uva dulce."
+      },
+      {
+        "nombre": "GRAPEFRUIT LEMON LI",
+        "codigo": "lost-mary-mixer-30k-grapefruit-lemon-li",
+        "descripcion": "Perfil de uva dulce, limón."
+      },
+      {
+        "nombre": "APPLE GRAPE",
+        "codigo": "lost-mary-mixer-30k-apple-grape",
+        "descripcion": "Perfil de uva dulce, manzana."
+      },
+      {
+        "nombre": "MIAMI CHILL",
+        "codigo": "lost-mary-mixer-30k-miami-chill",
+        "descripcion": "Perfil de sabor frutal y equilibrado."
+      },
+      {
+        "nombre": "MIX MINT",
+        "codigo": "lost-mary-mixer-30k-mix-mint",
+        "descripcion": "Perfil de menta fresca."
+      },
+      {
+        "nombre": "ORANGE STRAWBERRY",
+        "codigo": "lost-mary-mixer-30k-orange-strawberry",
+        "descripcion": "Perfil de frutilla, naranja."
+      },
+      {
+        "nombre": "RASPBERRY PINEAPPLE",
+        "codigo": "lost-mary-mixer-30k-raspberry-pineapple",
+        "descripcion": "Perfil de manzana, frambuesa, ananá."
+      }
+    ]
+  },
+  {
+    "marca": "WAKA",
+    "modelo": "36K BLAST",
+    "categoria": "Vapers Desechables",
+    "precioMayorista": 9.3,
+    "precioProveedor": 7.75,
+    "imagen": "images/waka/Waka 36K Blast.webp",
+    "sabores": [
+      {
+        "nombre": "AQUA ICE",
+        "codigo": "waka-36k-blast-aqua-ice",
+        "descripcion": "Perfil de toque frío."
+      },
+      {
+        "nombre": "BLUE RAZZ",
+        "codigo": "waka-36k-blast-blue-razz",
+        "descripcion": "Perfil de sabor frutal y equilibrado."
+      },
+      {
+        "nombre": "GRAPE",
+        "codigo": "waka-36k-blast-grape",
+        "descripcion": "Perfil de uva dulce."
+      },
+      {
+        "nombre": "ICE MINT",
+        "codigo": "waka-36k-blast-ice-mint",
+        "descripcion": "Perfil de menta fresca, toque frío."
+      },
+      {
+        "nombre": "CHERRY WATERMELON",
+        "codigo": "waka-36k-blast-cherry-watermelon",
+        "descripcion": "Perfil de sandía, cereza."
+      },
+      {
+        "nombre": "GRAPE APPLE FUSION",
+        "codigo": "waka-36k-blast-grape-apple-fusion",
+        "descripcion": "Perfil de uva dulce, manzana."
+      },
+      {
+        "nombre": "GREEN APPLE",
+        "codigo": "waka-36k-blast-green-apple",
+        "descripcion": "Perfil de manzana."
+      },
+      {
+        "nombre": "ICE COCONUT WATER",
+        "codigo": "waka-36k-blast-ice-coconut-water",
+        "descripcion": "Perfil de coco, toque frío."
+      }
+    ]
+  }
+]
