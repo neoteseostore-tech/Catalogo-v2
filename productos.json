@@ -1,0 +1,748 @@
+[
+  {
+    "marca": "BLACK SHEEP",
+    "modelo": "30K",
+    "categoria": "Vapers Desechables",
+    "precioMayorista": 12.7,
+    "precioProveedor": 10.75,
+    "imagen": "https://api.extrashop.com.py/storage/products/191795p1.jpg",
+    "sabores": [
+      {
+        "nombre": "ACAI GRAPE + STRAWBERRY KIWI ICE",
+        "codigo": "191795",
+        "imagen": "https://api.extrashop.com.py/storage/products/191795p1.jpg",
+        "descripcion": "Perfil de uva dulce, frutilla, kiwi, açaí."
+      },
+      {
+        "nombre": "ACAI MORANGO + GRAPE MANGO ICE",
+        "codigo": "191784",
+        "imagen": "https://api.extrashop.com.py/storage/products/191784p1.jpg",
+        "descripcion": "Perfil de uva dulce, mango tropical, açaí, toque frío."
+      },
+      {
+        "nombre": "ACAI STRAWBERRY BANANA + GRAPE ICE",
+        "codigo": "191773",
+        "imagen": "https://api.extrashop.com.py/storage/products/191773p1.jpg",
+        "descripcion": "Perfil de uva dulce, frutilla, banana, açaí."
+      },
+      {
+        "nombre": "CHERRY RASPBERRY + WATERMELON STRAWBERRY",
+        "codigo": "177597",
+        "imagen": "https://api.extrashop.com.py/storage/products/177597p1.jpg",
+        "descripcion": "Perfil de frutilla, sandía, frambuesa, cereza."
+      },
+      {
+        "nombre": "FRESH MINT + GRAPE",
+        "codigo": "177711",
+        "imagen": "https://api.extrashop.com.py/storage/products/177711p1.jpg",
+        "descripcion": "Perfil de menta fresca, uva dulce, toque frío."
+      },
+      {
+        "nombre": "FRESH MINT + WATERMELON STRAWBERRY",
+        "codigo": "177722",
+        "imagen": "https://api.extrashop.com.py/storage/products/177722p1.jpg",
+        "descripcion": "Perfil de menta fresca, frutilla, sandía, toque frío."
+      },
+      {
+        "nombre": "GRAPE + ICE MASTER GRAPE ICE",
+        "codigo": "191762",
+        "imagen": "https://api.extrashop.com.py/storage/products/191762p1.jpg",
+        "descripcion": "Perfil de uva dulce, toque frío."
+      },
+      {
+        "nombre": "GRAPE + PASSION FRUIT",
+        "codigo": "177700",
+        "imagen": "https://api.extrashop.com.py/storage/products/177700p1.jpg",
+        "descripcion": "Perfil de uva dulce, maracuyá."
+      },
+      {
+        "nombre": "GRAPE + STRAWBERRY BANANA",
+        "codigo": "177698",
+        "imagen": "https://api.extrashop.com.py/storage/products/177698p1.jpg",
+        "descripcion": "Perfil de uva dulce, frutilla, banana."
+      },
+      {
+        "nombre": "GRAPE + STRAWBERRY KIWI",
+        "codigo": "177687",
+        "imagen": "https://api.extrashop.com.py/storage/products/177687p1.jpg",
+        "descripcion": "Perfil de uva dulce, frutilla, kiwi."
+      },
+      {
+        "nombre": "GRAPE + WATERMELON BUBBLEGUM",
+        "codigo": "177676",
+        "imagen": "https://api.extrashop.com.py/storage/products/177676p1.jpg",
+        "descripcion": "Perfil de uva dulce, sandía."
+      },
+      {
+        "nombre": "MENTHOL + FRESH MINT",
+        "codigo": "177665",
+        "imagen": "https://api.extrashop.com.py/storage/products/177665p1.jpg",
+        "descripcion": "Perfil de menta fresca, mentol intenso, toque frío."
+      },
+      {
+        "nombre": "MENTHOL + MANGO PEACH WATERMELON",
+        "codigo": "177654",
+        "imagen": "https://api.extrashop.com.py/storage/products/177654p1.jpg",
+        "descripcion": "Perfil de mentol intenso, sandía, mango tropical, durazno."
+      },
+      {
+        "nombre": "MENTHOL + WATERMELON GREEN APPLE",
+        "codigo": "177643",
+        "imagen": "https://api.extrashop.com.py/storage/products/177643p1.jpg",
+        "descripcion": "Perfil de mentol intenso, sandía, manzana."
+      },
+      {
+        "nombre": "SOUR GREEN APPLE + BLUEBERRY GRAPE",
+        "codigo": "177632",
+        "imagen": "https://api.extrashop.com.py/storage/products/177632p1.jpg",
+        "descripcion": "Perfil de uva dulce, manzana, arándanos."
+      },
+      {
+        "nombre": "STRAWBERRY BANANA + PINEAPPLE COCONUT",
+        "codigo": "177621",
+        "imagen": "https://api.extrashop.com.py/storage/products/177621p1.jpg",
+        "descripcion": "Perfil de frutilla, manzana, ananá, coco."
+      },
+      {
+        "nombre": "STRAWBERRY BUBBLE + SOUR PINEAPPLE",
+        "codigo": "177610",
+        "imagen": "https://api.extrashop.com.py/storage/products/177610p1.jpg",
+        "descripcion": "Perfil de frutilla, manzana, ananá."
+      },
+      {
+        "nombre": "WATERMELON BUBBLE + MANGO PEACH WATER",
+        "codigo": "177600",
+        "imagen": "https://api.extrashop.com.py/storage/products/177600p1.jpg",
+        "descripcion": "Perfil de sandía, mango tropical, durazno."
+      }
+    ]
+  },
+  {
+    "marca": "BLACK SHEEP",
+    "modelo": "40K SWI",
+    "categoria": "Vapers Desechables",
+    "precioMayorista": 14.1,
+    "precioProveedor": 12.0,
+    "imagen": "https://api.extrashop.com.py/storage/products/178363p1.jpg",
+    "sabores": [
+      {
+        "nombre": "BLUEBERRY BUBBLE + SOUR GREEN APPLE",
+        "codigo": "178363",
+        "imagen": "https://api.extrashop.com.py/storage/products/178363p1.jpg",
+        "descripcion": "Perfil de manzana, arándanos."
+      },
+      {
+        "nombre": "BLUEBERRY GRAPE + CHERRY BERRY",
+        "codigo": "178431",
+        "imagen": "https://api.extrashop.com.py/storage/products/178431p1.jpg",
+        "descripcion": "Perfil de uva dulce, arándanos, cereza."
+      },
+      {
+        "nombre": "FRESH MINT + MANGO ORANGE",
+        "codigo": "178420",
+        "imagen": "https://api.extrashop.com.py/storage/products/178420p1.jpg",
+        "descripcion": "Perfil de menta fresca, mango tropical, naranja, toque frío."
+      },
+      {
+        "nombre": "GRAPE MANGO + FRESH MINT",
+        "codigo": "178410",
+        "imagen": "https://api.extrashop.com.py/storage/products/178410p1.jpg",
+        "descripcion": "Perfil de menta fresca, uva dulce, mango tropical, toque frío."
+      },
+      {
+        "nombre": "GRAPE + ENERGY DRINK",
+        "codigo": "178409",
+        "imagen": "https://api.extrashop.com.py/storage/products/178409p1.jpg",
+        "descripcion": "Perfil de uva dulce."
+      },
+      {
+        "nombre": "GRAPE + GRAPE MANGO",
+        "codigo": "183269",
+        "imagen": "https://api.extrashop.com.py/storage/products/183269p1.jpg",
+        "descripcion": "Perfil de uva dulce, mango tropical."
+      },
+      {
+        "nombre": "GRAPE + MENTHOL",
+        "codigo": "178396",
+        "imagen": "https://api.extrashop.com.py/storage/products/178396p1.jpg",
+        "descripcion": "Perfil de mentol intenso, uva dulce."
+      },
+      {
+        "nombre": "GRAPE + PASSION FRUIT",
+        "codigo": "183270",
+        "imagen": "https://api.extrashop.com.py/storage/products/183270p1.jpg",
+        "descripcion": "Perfil de uva dulce, maracuyá."
+      },
+      {
+        "nombre": "ICE ACAI STRAWBERRY + ACAI GRAPE",
+        "codigo": "192056",
+        "imagen": "https://api.extrashop.com.py/storage/products/192056p1.jpg",
+        "descripcion": "Perfil de uva dulce, frutilla, açaí, toque frío."
+      },
+      {
+        "nombre": "ICE GRAPE + GRAPE ICE",
+        "codigo": "192045",
+        "imagen": "https://api.extrashop.com.py/storage/products/192045p1.jpg",
+        "descripcion": "Perfil de uva dulce, toque frío."
+      },
+      {
+        "nombre": "ICE KIWI GRAPE STRAWBERRY + ACAI STRAWBERRY BANANA",
+        "codigo": "192034",
+        "imagen": "https://api.extrashop.com.py/storage/products/192034p1.jpg",
+        "descripcion": "Perfil de uva dulce, frutilla, kiwi, banana."
+      },
+      {
+        "nombre": "PASSION FRUIT + STRAWBERRY WATERMELON",
+        "codigo": "178385",
+        "imagen": "https://api.extrashop.com.py/storage/products/178385p1.jpg",
+        "descripcion": "Perfil de frutilla, sandía, maracuyá."
+      },
+      {
+        "nombre": "STRAWBERRY KIWI + COLA LIME",
+        "codigo": "178374",
+        "imagen": "https://api.extrashop.com.py/storage/products/178374p1.jpg",
+        "descripcion": "Perfil de frutilla, kiwi, cola, lima."
+      },
+      {
+        "nombre": "STRAWBERRY KIWI + FRESH MINT",
+        "codigo": "183280",
+        "imagen": "https://api.extrashop.com.py/storage/products/183280p1.jpg",
+        "descripcion": "Perfil de menta fresca, frutilla, kiwi, toque frío."
+      }
+    ]
+  },
+  {
+    "marca": "BLACK SHEEP",
+    "modelo": "55K PRO",
+    "categoria": "Vapers Desechables",
+    "precioMayorista": 14.7,
+    "precioProveedor": 12.5,
+    "imagen": "https://api.extrashop.com.py/storage/products/192113p1.jpg",
+    "sabores": [
+      {
+        "nombre": "ALOE GRAPE",
+        "codigo": "192113",
+        "imagen": "https://api.extrashop.com.py/storage/products/192113p1.jpg",
+        "descripcion": "Perfil de uva dulce."
+      },
+      {
+        "nombre": "BLUEBERRY WATERMELON",
+        "codigo": "192180",
+        "imagen": "https://api.extrashop.com.py/storage/products/192180p1.jpg",
+        "descripcion": "Perfil de sandía, arándanos."
+      },
+      {
+        "nombre": "COOL MINT",
+        "codigo": "192179",
+        "imagen": "https://api.extrashop.com.py/storage/products/192179p1.jpg",
+        "descripcion": "Perfil de menta fresca, toque frío."
+      },
+      {
+        "nombre": "MIAMI MINT",
+        "codigo": "192168",
+        "imagen": "https://api.extrashop.com.py/storage/products/192168p1.jpg",
+        "descripcion": "Perfil de menta fresca."
+      },
+      {
+        "nombre": "MIXED BERRY",
+        "codigo": "192157",
+        "imagen": "https://api.extrashop.com.py/storage/products/192157p1.jpg",
+        "descripcion": "Perfil de sabor frutal y equilibrado."
+      },
+      {
+        "nombre": "STRAWBERRY BANANA",
+        "codigo": "192135",
+        "imagen": "https://api.extrashop.com.py/storage/products/192135p1.jpg",
+        "descripcion": "Perfil de frutilla, banana."
+      },
+      {
+        "nombre": "WATERMELON ICE",
+        "codigo": "192124",
+        "imagen": "https://api.extrashop.com.py/storage/products/192124p1.jpg",
+        "descripcion": "Perfil de sandía, toque frío."
+      }
+    ]
+  },
+  {
+    "marca": "ELFBAR",
+    "modelo": "35K DUKE",
+    "categoria": "Vapers Desechables",
+    "precioMayorista": 11.3,
+    "precioProveedor": 9.5,
+    "imagen": "https://api.extrashop.com.py/storage/products/198916p1.jpg",
+    "sabores": [
+      {
+        "nombre": "ICY MINT",
+        "codigo": "elfbar-35k-duke-icy-mint",
+        "imagen": "https://api.extrashop.com.py/storage/products/198916p1.jpg",
+        "descripcion": "Perfil de menta fresca, toque frío."
+      },
+      {
+        "nombre": "KIWI PASSION FRUIT",
+        "codigo": "elfbar-35k-duke-kiwi-passion-fruit",
+        "imagen": "https://api.extrashop.com.py/storage/products/198815p1.jpg",
+        "descripcion": "Perfil de kiwi, maracuyá."
+      },
+      {
+        "nombre": "MANGO MAGIC",
+        "codigo": "elfbar-35k-duke-mango-magic",
+        "imagen": "https://api.extrashop.com.py/storage/products/198815p1.jpg",
+        "descripcion": "Perfil de mango tropical."
+      },
+      {
+        "nombre": "MENTHOL",
+        "codigo": "elfbar-35k-duke-menthol",
+        "imagen": "https://api.extrashop.com.py/storage/products/198881p1.jpg",
+        "descripcion": "Perfil de mentol intenso."
+      },
+      {
+        "nombre": "PEACH MANGO WATERMELON",
+        "codigo": "elfbar-35k-duke-peach-mango-watermelon",
+        "imagen": "https://api.extrashop.com.py/storage/products/198870p1.jpg",
+        "descripcion": "Perfil de sandía, mango tropical, durazno."
+      },
+      {
+        "nombre": "PINEAPPLE ICE",
+        "codigo": "elfbar-35k-duke-pineapple-ice",
+        "imagen": "https://api.extrashop.com.py/storage/products/198815p1.jpg",
+        "descripcion": "Perfil de manzana, ananá, toque frío."
+      }
+    ]
+  },
+  {
+    "marca": "ELFBAR",
+    "modelo": "40K ICE KING",
+    "categoria": "Vapers Desechables",
+    "precioMayorista": 11.6,
+    "precioProveedor": 9.75,
+    "imagen": "https://api.extrashop.com.py/storage/products/159924p1.jpg",
+    "sabores": [
+      {
+        "nombre": "BAJA SPLASH",
+        "codigo": "elfbar-40k-ice-king-baja-splash",
+        "imagen": "https://api.extrashop.com.py/storage/products/159924p1.jpg",
+        "descripcion": "Perfil de sabor frutal y equilibrado."
+      },
+      {
+        "nombre": "BLUE RAZZ ICE",
+        "codigo": "elfbar-40k-ice-king-blue-razz-ice",
+        "imagen": "https://api.extrashop.com.py/storage/products/160062p1.jpg",
+        "descripcion": "Perfil de toque frío."
+      },
+      {
+        "nombre": "CHERRY FUSE",
+        "codigo": "elfbar-40k-ice-king-cherry-fuse",
+        "imagen": "https://api.extrashop.com.py/storage/products/160051p1.jpg",
+        "descripcion": "Perfil de cereza."
+      },
+      {
+        "nombre": "CHERRY STRAZZ",
+        "codigo": "elfbar-40k-ice-king-cherry-strazz",
+        "imagen": "https://api.extrashop.com.py/storage/products/160040p1.jpg",
+        "descripcion": "Perfil de cereza."
+      },
+      {
+        "nombre": "MIAMI MINT",
+        "codigo": "elfbar-40k-ice-king-miami-mint",
+        "imagen": "https://api.extrashop.com.py/storage/products/160018p1.jpg",
+        "descripcion": "Perfil de menta fresca."
+      },
+      {
+        "nombre": "PEACH+",
+        "codigo": "elfbar-40k-ice-king-peach-plus",
+        "imagen": "https://api.extrashop.com.py/storage/products/160062p1.jpg",
+        "descripcion": "Perfil de durazno."
+      },
+      {
+        "nombre": "SCARY BERRY",
+        "codigo": "elfbar-40k-ice-king-scary-berry",
+        "imagen": "https://api.extrashop.com.py/storage/products/160062p1.jpg",
+        "descripcion": "Perfil de sabor frutal y equilibrado."
+      },
+      {
+        "nombre": "SOUR APPLE ICE",
+        "codigo": "elfbar-40k-ice-king-sour-apple-ice",
+        "imagen": "https://api.extrashop.com.py/storage/products/159980p1.jpg",
+        "descripcion": "Perfil de manzana, toque frío."
+      },
+      {
+        "nombre": "SOUR STRAW DRAGON FRUIT",
+        "codigo": "elfbar-40k-ice-king-sour-straw-dragon-fruit",
+        "imagen": "https://api.extrashop.com.py/storage/products/160062p1.jpg",
+        "descripcion": "Perfil de sabor frutal y equilibrado."
+      },
+      {
+        "nombre": "STRAWBERRY ICE",
+        "codigo": "elfbar-40k-ice-king-strawberry-ice",
+        "imagen": "https://api.extrashop.com.py/storage/products/160062p1.jpg",
+        "descripcion": "Perfil de frutilla, toque frío."
+      },
+      {
+        "nombre": "STRAWBERRY WATERMELON",
+        "codigo": "elfbar-40k-ice-king-strawberry-watermelon",
+        "imagen": "https://api.extrashop.com.py/storage/products/160062p1.jpg",
+        "descripcion": "Perfil de frutilla, sandía."
+      },
+      {
+        "nombre": "SUMMER COLA SLUSH",
+        "codigo": "elfbar-40k-ice-king-summer-cola-slush",
+        "imagen": "https://api.extrashop.com.py/storage/products/186509p1.jpg",
+        "descripcion": "Perfil de cola."
+      },
+      {
+        "nombre": "SUMMER HAWAIIAN SLUSH",
+        "codigo": "elfbar-40k-ice-king-summer-hawaiian-slush",
+        "imagen": "https://api.extrashop.com.py/storage/products/186485p1.jpg",
+        "descripcion": "Perfil de sabor frutal y equilibrado."
+      },
+      {
+        "nombre": "SUMMER NEON TWIST",
+        "codigo": "elfbar-40k-ice-king-summer-neon-twist",
+        "imagen": "https://api.extrashop.com.py/storage/products/186474p1.jpg",
+        "descripcion": "Perfil de sabor frutal y equilibrado."
+      },
+      {
+        "nombre": "SUMMER SPLASH",
+        "codigo": "elfbar-40k-ice-king-summer-splash",
+        "imagen": "https://api.extrashop.com.py/storage/products/160062p1.jpg",
+        "descripcion": "Perfil de sabor frutal y equilibrado."
+      },
+      {
+        "nombre": "TIGERS BLOOD",
+        "codigo": "elfbar-40k-ice-king-tigers-blood",
+        "imagen": "https://api.extrashop.com.py/storage/products/160062p1.jpg",
+        "descripcion": "Perfil de sabor frutal y equilibrado."
+      }
+    ]
+  },
+  {
+    "marca": "ELFBAR",
+    "modelo": "40K TRIO",
+    "categoria": "Vapers Desechables",
+    "precioMayorista": 11.6,
+    "precioProveedor": 9.75,
+    "imagen": "https://api.extrashop.com.py/storage/products/179040p1.jpg",
+    "sabores": [
+      {
+        "nombre": "BLACK MINT",
+        "codigo": "elfbar-40k-trio-black-mint",
+        "imagen": "https://api.extrashop.com.py/storage/products/179040p1.jpg",
+        "descripcion": "Perfil de menta fresca."
+      },
+      {
+        "nombre": "BLUE RAZZ ICE",
+        "codigo": "elfbar-40k-trio-blue-razz-ice",
+        "imagen": "https://api.extrashop.com.py/storage/products/179040p1.jpg",
+        "descripcion": "Perfil de toque frío."
+      },
+      {
+        "nombre": "BLUEBERRY POM SLUSHY",
+        "codigo": "elfbar-40k-trio-blueberry-pom-slushy",
+        "imagen": "https://api.extrashop.com.py/storage/products/179040p1.jpg",
+        "descripcion": "Perfil de arándanos."
+      },
+      {
+        "nombre": "COOL MENTHOL",
+        "codigo": "elfbar-40k-trio-cool-menthol",
+        "imagen": "https://api.extrashop.com.py/storage/products/179040p1.jpg",
+        "descripcion": "Perfil de mentol intenso, toque frío."
+      },
+      {
+        "nombre": "SOUR STRAWBERRY DRAGON FURTI",
+        "codigo": "elfbar-40k-trio-sour-strawberry-dragon-furti",
+        "imagen": "https://api.extrashop.com.py/storage/products/179040p1.jpg",
+        "descripcion": "Perfil de frutilla."
+      },
+      {
+        "nombre": "STRAWBERRY ORANGE LIME",
+        "codigo": "elfbar-40k-trio-strawberry-orange-lime",
+        "imagen": "https://api.extrashop.com.py/storage/products/179040p1.jpg",
+        "descripcion": "Perfil de frutilla, lima, naranja."
+      },
+      {
+        "nombre": "WATERMELON ICE",
+        "codigo": "elfbar-40k-trio-watermelon-ice",
+        "imagen": "https://api.extrashop.com.py/storage/products/179040p1.jpg",
+        "descripcion": "Perfil de sandía, toque frío."
+      },
+      {
+        "nombre": "40000 A SOUR ICY SWEET",
+        "codigo": "elfbar-40k-trio-40000-a-sour-icy-sweet",
+        "imagen": "https://api.extrashop.com.py/storage/products/179040p1.jpg",
+        "descripcion": "Perfil de toque frío."
+      }
+    ]
+  },
+  {
+    "marca": "GEEKBAR",
+    "modelo": "25K PULSE X",
+    "categoria": "Vapers Desechables",
+    "precioMayorista": 8.4,
+    "precioProveedor": 7.0,
+    "imagen": "https://api.extrashop.com.py/storage/products/163728p1.jpg",
+    "sabores": [
+      {
+        "nombre": "ALT MINT",
+        "codigo": "geekbar-25k-pulse-x-alt-mint",
+        "imagen": "https://api.extrashop.com.py/storage/products/163728p1.jpg",
+        "descripcion": "Perfil de menta fresca."
+      },
+      {
+        "nombre": "COOL MINT",
+        "codigo": "geekbar-25k-pulse-x-cool-mint",
+        "imagen": "https://api.extrashop.com.py/storage/products/163728p1.jpg",
+        "descripcion": "Perfil de menta fresca, toque frío."
+      },
+      {
+        "nombre": "MIAMI MINT",
+        "codigo": "geekbar-25k-pulse-x-miami-mint",
+        "imagen": "https://api.extrashop.com.py/storage/products/157281p1.jpg",
+        "descripcion": "Perfil de menta fresca."
+      },
+      {
+        "nombre": "SOUR APPLE ICE",
+        "codigo": "geekbar-25k-pulse-x-sour-apple-ice",
+        "imagen": "https://api.extrashop.com.py/storage/products/157316p1.jpg",
+        "descripcion": "Perfil de manzana, toque frío."
+      },
+      {
+        "nombre": "BANANA TAFFY FREEZ",
+        "codigo": "geekbar-25k-pulse-x-banana-taffy-freez",
+        "imagen": "https://api.extrashop.com.py/storage/products/157191p1.jpg",
+        "descripcion": "Perfil de banana."
+      },
+      {
+        "nombre": "BLACKBERRY B-POP",
+        "codigo": "geekbar-25k-pulse-x-blackberry-b-pop",
+        "imagen": "https://api.extrashop.com.py/storage/products/163728p1.jpg",
+        "descripcion": "Perfil de sabor frutal y equilibrado."
+      },
+      {
+        "nombre": "BLACKBERRY BLUEBERY",
+        "codigo": "geekbar-25k-pulse-x-blackberry-bluebery",
+        "imagen": "https://api.extrashop.com.py/storage/products/163728p1.jpg",
+        "descripcion": "Perfil de sabor frutal y equilibrado."
+      },
+      {
+        "nombre": "GRAPEFRUIT REFRESH",
+        "codigo": "geekbar-25k-pulse-x-grapefruit-refresh",
+        "imagen": "https://api.extrashop.com.py/storage/products/163728p1.jpg",
+        "descripcion": "Perfil de uva dulce, toque frío."
+      },
+      {
+        "nombre": "LEMON HEADS",
+        "codigo": "geekbar-25k-pulse-x-lemon-heads",
+        "imagen": "https://api.extrashop.com.py/storage/products/163728p1.jpg",
+        "descripcion": "Perfil de limón."
+      },
+      {
+        "nombre": "RASPBERRY PEACH LIME",
+        "codigo": "geekbar-25k-pulse-x-raspberry-peach-lime",
+        "imagen": "https://api.extrashop.com.py/storage/products/163728p1.jpg",
+        "descripcion": "Perfil de durazno, frambuesa, lima."
+      },
+      {
+        "nombre": "SOUR FCUKING FAB",
+        "codigo": "geekbar-25k-pulse-x-sour-fcuking-fab",
+        "imagen": "https://api.extrashop.com.py/storage/products/163728p1.jpg",
+        "descripcion": "Perfil de sabor frutal y equilibrado."
+      },
+      {
+        "nombre": "SOUR MANGO PINEAPPLE",
+        "codigo": "geekbar-25k-pulse-x-sour-mango-pineapple",
+        "imagen": "https://api.extrashop.com.py/storage/products/163728p1.jpg",
+        "descripcion": "Perfil de mango tropical, manzana, ananá."
+      },
+      {
+        "nombre": "SOUR STRAWBERRY",
+        "codigo": "geekbar-25k-pulse-x-sour-strawberry",
+        "imagen": "https://api.extrashop.com.py/storage/products/163728p1.jpg",
+        "descripcion": "Perfil de frutilla."
+      }
+    ]
+  },
+  {
+    "marca": "IGNITE",
+    "modelo": "V150",
+    "categoria": "Vapers Desechables",
+    "precioMayorista": 9.0,
+    "precioProveedor": 7.5,
+    "imagen": "https://api.extrashop.com.py/storage/products/147381p1.jpg",
+    "sabores": [
+      {
+        "nombre": "BLACK BERRY BLAST",
+        "codigo": "ignite-v150-black-berry-blast",
+        "imagen": "https://api.extrashop.com.py/storage/products/147381p1.jpg",
+        "descripcion": "Perfil de sabor frutal y equilibrado."
+      },
+      {
+        "nombre": "BLACK BLUEBERRY ICE",
+        "codigo": "ignite-v150-black-blueberry-ice",
+        "imagen": "https://api.extrashop.com.py/storage/products/147381p1.jpg",
+        "descripcion": "Perfil de arándanos, toque frío."
+      },
+      {
+        "nombre": "BLACK DRAGON FRUIT LEMONADE",
+        "codigo": "ignite-v150-black-dragon-fruit-lemonade",
+        "imagen": "https://api.extrashop.com.py/storage/products/147381p1.jpg",
+        "descripcion": "Perfil de limón."
+      },
+      {
+        "nombre": "BLACK PEPERMINT E CREAM",
+        "codigo": "ignite-v150-black-pepermint-e-cream",
+        "imagen": "https://api.extrashop.com.py/storage/products/147381p1.jpg",
+        "descripcion": "Perfil de menta fresca."
+      },
+      {
+        "nombre": "BLACK BLUE DREAM",
+        "codigo": "ignite-v150-black-blue-dream",
+        "imagen": "https://api.extrashop.com.py/storage/products/147381p1.jpg",
+        "descripcion": "Perfil de sabor frutal y equilibrado."
+      },
+      {
+        "nombre": "BLACK CHERRY BANANA",
+        "codigo": "ignite-v150-black-cherry-banana",
+        "imagen": "https://api.extrashop.com.py/storage/products/147381p1.jpg",
+        "descripcion": "Perfil de cereza, banana."
+      }
+    ]
+  },
+  {
+    "marca": "IGNITE",
+    "modelo": "V150 PRO",
+    "categoria": "Vapers Desechables",
+    "precioMayorista": 9.5,
+    "precioProveedor": 8.0,
+    "imagen": "https://api.extrashop.com.py/storage/products/169363p1.jpg",
+    "sabores": [
+      {
+        "nombre": "PINEAPPLE ICE",
+        "codigo": "ignite-v150-pro-pineapple-ice",
+        "imagen": "https://api.extrashop.com.py/storage/products/169363p1.jpg",
+        "descripcion": "Perfil de manzana, ananá, toque frío."
+      },
+      {
+        "nombre": "SOUR APPLE ICE",
+        "codigo": "ignite-v150-pro-sour-apple-ice",
+        "imagen": "https://api.extrashop.com.py/storage/products/169363p1.jpg",
+        "descripcion": "Perfil de manzana, toque frío."
+      }
+    ]
+  },
+  {
+    "marca": "LOST MARY",
+    "modelo": "MIXER 30K",
+    "categoria": "Vapers Desechables",
+    "precioMayorista": 10.1,
+    "precioProveedor": 8.5,
+    "imagen": "https://api.extrashop.com.py/storage/products/168239p1.jpg",
+    "sabores": [
+      {
+        "nombre": "ALO GRAPE SOUR AP",
+        "codigo": "lost-mary-mixer-30k-alo-grape-sour-ap",
+        "imagen": "https://api.extrashop.com.py/storage/products/168239p1.jpg",
+        "descripcion": "Perfil de uva dulce."
+      },
+      {
+        "nombre": "GRAPEFRUIT GREEN",
+        "codigo": "lost-mary-mixer-30k-grapefruit-green",
+        "imagen": "https://api.extrashop.com.py/storage/products/165090p1.jpg",
+        "descripcion": "Perfil de uva dulce."
+      },
+      {
+        "nombre": "GRAPEFRUIT LEMON LI",
+        "codigo": "lost-mary-mixer-30k-grapefruit-lemon-li",
+        "imagen": "https://api.extrashop.com.py/storage/products/158822p1.jpg",
+        "descripcion": "Perfil de uva dulce, limón."
+      },
+      {
+        "nombre": "APPLE GRAPE",
+        "codigo": "lost-mary-mixer-30k-apple-grape",
+        "imagen": "https://api.extrashop.com.py/storage/products/168239p1.jpg",
+        "descripcion": "Perfil de uva dulce, manzana."
+      },
+      {
+        "nombre": "MIAMI CHILL",
+        "codigo": "lost-mary-mixer-30k-miami-chill",
+        "imagen": "https://api.extrashop.com.py/storage/products/168261p1.jpg",
+        "descripcion": "Perfil de sabor frutal y equilibrado."
+      },
+      {
+        "nombre": "MIX MINT",
+        "codigo": "lost-mary-mixer-30k-mix-mint",
+        "imagen": "https://api.extrashop.com.py/storage/products/168239p1.jpg",
+        "descripcion": "Perfil de menta fresca."
+      },
+      {
+        "nombre": "ORANGE STRAWBERRY",
+        "codigo": "lost-mary-mixer-30k-orange-strawberry",
+        "imagen": "https://api.extrashop.com.py/storage/products/168239p1.jpg",
+        "descripcion": "Perfil de frutilla, naranja."
+      },
+      {
+        "nombre": "RASPBERRY PINEAPPLE",
+        "codigo": "lost-mary-mixer-30k-raspberry-pineapple",
+        "imagen": "https://api.extrashop.com.py/storage/products/158798p1.jpg",
+        "descripcion": "Perfil de manzana, frambuesa, ananá."
+      }
+    ]
+  },
+  {
+    "marca": "WAKA",
+    "modelo": "36K BLAST",
+    "categoria": "Vapers Desechables",
+    "precioMayorista": 9.3,
+    "precioProveedor": 7.75,
+    "imagen": "https://api.extrashop.com.py/storage/products/159240p1.jpg",
+    "sabores": [
+      {
+        "nombre": "AQUA ICE",
+        "codigo": "waka-36k-blast-aqua-ice",
+        "imagen": "https://api.extrashop.com.py/storage/products/159240p1.jpg",
+        "descripcion": "Perfil de toque frío."
+      },
+      {
+        "nombre": "BLUE RAZZ",
+        "codigo": "waka-36k-blast-blue-razz",
+        "imagen": "https://api.extrashop.com.py/storage/products/159272p1.jpg",
+        "descripcion": "Perfil de sabor frutal y equilibrado."
+      },
+      {
+        "nombre": "GRAPE",
+        "codigo": "waka-36k-blast-grape",
+        "imagen": "https://api.extrashop.com.py/storage/products/159283p1.jpg",
+        "descripcion": "Perfil de uva dulce."
+      },
+      {
+        "nombre": "ICE MINT",
+        "codigo": "waka-36k-blast-ice-mint",
+        "imagen": "https://api.extrashop.com.py/storage/products/159240p1.jpg",
+        "descripcion": "Perfil de menta fresca, toque frío."
+      },
+      {
+        "nombre": "CHERRY WATERMELON",
+        "codigo": "waka-36k-blast-cherry-watermelon",
+        "imagen": "https://api.extrashop.com.py/storage/products/159240p1.jpg",
+        "descripcion": "Perfil de sandía, cereza."
+      },
+      {
+        "nombre": "GRAPE APPLE FUSION",
+        "codigo": "waka-36k-blast-grape-apple-fusion",
+        "imagen": "https://api.extrashop.com.py/storage/products/159240p1.jpg",
+        "descripcion": "Perfil de uva dulce, manzana."
+      },
+      {
+        "nombre": "GREEN APPLE",
+        "codigo": "waka-36k-blast-green-apple",
+        "imagen": "https://api.extrashop.com.py/storage/products/159240p1.jpg",
+        "descripcion": "Perfil de manzana."
+      },
+      {
+        "nombre": "ICE COCONUT WATER",
+        "codigo": "waka-36k-blast-ice-coconut-water",
+        "imagen": "https://api.extrashop.com.py/storage/products/159240p1.jpg",
+        "descripcion": "Perfil de coco, toque frío."
+      }
+    ]
+  }
+]
